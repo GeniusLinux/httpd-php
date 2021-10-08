@@ -17,7 +17,7 @@
 </p>
 
 # geniuslinux/httpd-php
-[![Docker Last Version](https://img.shields.io/docker/v/geniuslinux/httpd-php?color=green&label=VERSION&logo=VERSION&logoColor=green&sort=semver&style=for-the-badge)](https://img.shields.io/docker/v/geniuslinux/httpd-php?color=green&label=VERSION&logo=VERSION&logoColor=green&sort=semver&style=for-the-badge "Docker Last Version")
+[![Docker Last Version](https://img.shields.io/github/v/tag/geniuslinux/httpd-php?label=Package%20Version&style=for-the-badge)](https://img.shields.io/github/v/tag/geniuslinux/httpd-php?label=Package%20Version&style=for-the-badge "Package Version")
 </br>
 [![Docker Size](https://img.shields.io/docker/image-size/geniuslinux/httpd-php?color=blue&label=DOCKER%20SIZE&logo=DOCKER%20SIZE&logoColor=blue&style=for-the-badge)](https://img.shields.io/docker/image-size/geniuslinux/httpd-php?color=blue&label=DOCKER%20SIZE&logo=IMAGE%20SIZE&logoColor=blue&style=for-the-badge "Docker Size")
 [![Docker Pulls](https://img.shields.io/docker/pulls/geniuslinux/httpd-php?label=DOCKER%20PULLS&logo=DOCKER%20PULLS&style=for-the-badge)](https://img.shields.io/docker/pulls/geniuslinux/httpd-php?label=DOCKER%20PULLS&logo=DOCKER%20PULLS&style=for-the-badge "Docker Pulls")
